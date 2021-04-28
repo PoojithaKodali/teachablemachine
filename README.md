@@ -17,7 +17,9 @@ link : https://teachablemachine.withgoogle.com/
   
 # Video
  https://youtu.be/aqDIiGlBf2g
+#Image
 
+![11-17-14-screencapture](https://user-images.githubusercontent.com/72956653/116354474-1a5d4880-a816-11eb-9a0a-7ccbb3c4c0af.png)
 # Resources
    Snake Game : https://thecodingtrain.com/CodingChallenges/003-snake-game-p5.html
    W3Schools Online Web Tutorials https://www.w3schools.com
